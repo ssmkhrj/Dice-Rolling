@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.a3e3c543.chunk.css",
-    "main.js": "/static/js/main.0391c504.chunk.js",
-    "main.js.map": "/static/js/main.0391c504.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2d37f4e3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2d37f4e3.js.map",
-    "static/js/2.61fe1d74.chunk.js": "/static/js/2.61fe1d74.chunk.js",
-    "static/js/2.61fe1d74.chunk.js.map": "/static/js/2.61fe1d74.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.a3e3c543.chunk.css.map": "/static/css/main.a3e3c543.chunk.css.map",
-    "static/js/2.61fe1d74.chunk.js.LICENSE.txt": "/static/js/2.61fe1d74.chunk.js.LICENSE.txt"
+    "main.css": "/Dice-Rolling/static/css/main.a3e3c543.chunk.css",
+    "main.js": "/Dice-Rolling/static/js/main.4dc8835f.chunk.js",
+    "main.js.map": "/Dice-Rolling/static/js/main.4dc8835f.chunk.js.map",
+    "runtime-main.js": "/Dice-Rolling/static/js/runtime-main.45407515.js",
+    "runtime-main.js.map": "/Dice-Rolling/static/js/runtime-main.45407515.js.map",
+    "static/js/2.cbaa826d.chunk.js": "/Dice-Rolling/static/js/2.cbaa826d.chunk.js",
+    "static/js/2.cbaa826d.chunk.js.map": "/Dice-Rolling/static/js/2.cbaa826d.chunk.js.map",
+    "index.html": "/Dice-Rolling/index.html",
+    "static/css/main.a3e3c543.chunk.css.map": "/Dice-Rolling/static/css/main.a3e3c543.chunk.css.map",
+    "static/js/2.cbaa826d.chunk.js.LICENSE.txt": "/Dice-Rolling/static/js/2.cbaa826d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2d37f4e3.js",
-    "static/js/2.61fe1d74.chunk.js",
+    "static/js/runtime-main.45407515.js",
+    "static/js/2.cbaa826d.chunk.js",
     "static/css/main.a3e3c543.chunk.css",
-    "static/js/main.0391c504.chunk.js"
+    "static/js/main.4dc8835f.chunk.js"
   ]
 }
