@@ -8,6 +8,7 @@ class Die extends Component {
         className={`Die fas fa-dice-${this.props.num} ${
           this.props.animate && "Die-shake"
         }`}
+        data-testid="die"
       />
     );
   }
