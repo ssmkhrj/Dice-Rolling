@@ -1,4 +1,4 @@
-# Rolling . . . Action
+# Rolling . . . Action!
 
 > Live Demo: https://ssmkhrj.github.io/Dice-Rolling/
 
